@@ -3,7 +3,7 @@
 <h2>👨‍💻 Go-To-Market Projects:</h2>
 
 - <b>Claude skills for GTM</b>
-  - [Problem-market fit ideation]([https://github.com/rucekovam/pmf-problem-validation])
+  - [Problem-market fit ideation](https://github.com/rucekovam/pmf-problem-validation)
   - [Competition and paradigm analysis]([https://github.com/rucekovam/pmf-problem-validation])
   - [ICP audit]([https://github.com/rucekovam/pmf-problem-validation])
   - [Sector agnostic onboarding - learn industry context ASAP]([https://github.com/rucekovam/pmf-problem-validation])
