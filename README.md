@@ -1,4 +1,4 @@
-<h1>Hi, I'm Maria! <br/> on my way to <a href="https://github.com/joshmadakor1">GTM engineer</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Implementation specialist</a>, and <a href="https://www.youtube.com/c/joshmadakor">Deployment strategist</a></h1>
+<h1>Hi, I'm Maria! <br/> as a<a href="https://github.com/joshmadakor1">GTM analyst</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Presales technical specialist</a>, and <a href="https://www.youtube.com/c/joshmadakor">and aspiring GTM engineer</a></h1>
 
 <h2>👨‍💻 Go-To-Market Projects:</h2>
 
