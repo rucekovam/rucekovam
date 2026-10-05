@@ -1,4 +1,4 @@
-<b>Hi, I'm Maria! <br/> an aspiring <a href="https://github.com/joshmadakor1">GTM analyst</a>.
+<b>Hi, I'm Maria, an aspiring GTM analyst.
 
 <h2>👨‍💻 Go-To-Market Projects:</h2>
 
