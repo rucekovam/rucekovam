@@ -1,5 +1,3 @@
-<b>Hi, I'm Maria, an aspiring GTM analyst.
-
 <h2>👨‍💻 Go-To-Market Projects:</h2>
 
 - <b>Claude skills for GTM</b>
